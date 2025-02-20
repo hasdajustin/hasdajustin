@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matheus Justin Hasda.</h2>
+<h2 align="left">Hi 👋! I'm Matheus Justin Hasda.</h2>
 
 ###
 
