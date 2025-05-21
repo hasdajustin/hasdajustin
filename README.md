@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
   <a href="https://justinhasda.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=59826&format=png&color=000000" width="37" height="25" alt="website"  />
+    <img src="https://img.icons8.com/?size=100&id=mxnsvF05U2Vw&format=png&color=000000" width="37" height="25" alt="website"  />
   </a>
 </div>
 
