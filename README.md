@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a passionate frontend designer, web developer, and lifelong learner, currently studying Computer Science at Dhaka International University. I specialize in building user-friendly websites and applications using Django, Bootstrap 5, JavaScript, Python.</p>
+<p align="left">I’m <b>Matheus Justin Hasda</b>, a passionate frontend designer, web developer, and lifelong learner, currently studying Computer Science at Dhaka International University. I specialize in building user-friendly websites and applications using Django, Bootstrap 5, JavaScript, Python.</p>
 
 ###
 
@@ -21,10 +21,9 @@
   <a href="https://www.instagram.com/justin_hasdak/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
-</div>
-
-<div align="left">
-  <a href="https://justinhasda.vercel.app/" target="_blank"></a>
+  <a href="https://justinhasda.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=59826&format=png&color=000000" width="37" height="25" alt="website"  />
+  </a>
 </div>
 
 ###
