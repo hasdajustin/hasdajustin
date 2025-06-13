@@ -1,5 +1,5 @@
 <h2>Hello World!</h2>
-<h3>I'm **Matheus Justin Hasda**, a learner who is exploring the world of web development.</h3>
+<h3>I'm Matheus Justin Hasda, a learner who is exploring the world of web development.</h3>
 
 ---
 
