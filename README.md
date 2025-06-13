@@ -29,7 +29,7 @@
 
 ###  GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasdajustin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
