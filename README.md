@@ -67,6 +67,16 @@ Currently studying at **Dhaka International University**. I enjoy working on web
 
 ---
 
+### Currently Exploring
+
+- Backend development with Django and Django REST Framework (API building)
+- Building interactive frontend apps using ReactJS and Next.js
+- Deep diving into secure authentication & deployment best practices
+- Learning how to integrate APIs smoothly between backend and frontend
+
+
+---
+
 <h3>GitHub Overview:</h3>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasdajustin&theme=tokyonight&hide_border=true" height="170px" />
