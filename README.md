@@ -2,7 +2,7 @@
   <h1>Hello World! 👋</h1>
   
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=I'm+Matheus+Justin+Hasda!;Backend+Web+Developer;Passionate+Web+Developer;Focused+on+Django+Development+(Python)" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=I'm+Matheus+Justin+Hasda!;" 
     alt="Typing SVG" 
   />
 </div>
