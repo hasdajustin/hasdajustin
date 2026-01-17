@@ -14,9 +14,6 @@ Always eager to **learn, grow, and explore** new technologies — transforming *
 **📧 Email:** <a href="mailto:matheusjustinhasda@gmail.com">`matheusjustinhasda@gmail.com`</a>
 
 <div align="start">
-  <a href="https://hasdajustin.github.io/justinhasda" target="_blank">
-    <img src="https://img.shields.io/badge/Website-My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" />
-  </a>&nbsp;
   <a href="https://dev.to/justinhasda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
   </a>&nbsp;
