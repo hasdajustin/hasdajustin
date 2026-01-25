@@ -36,12 +36,12 @@ I enjoy coding, exploring new tech, and figuring things out one step at a time.
 ---
 
 ### Currently Exploring
-• REST API Development & Integration  
-• Secure Authentication Systems  
-• Django REST Framework  
-• API Documentation Standards  
-• Containerization with Docker  
-• Modern Frontend with React
+- REST API Development & Integration  
+- Secure Authentication Systems  
+- Django REST Framework  
+- API Documentation Standards  
+- Containerization with Docker  
+- Modern Frontend with React
 ---
 
 ### GitHub Stats
