@@ -43,21 +43,6 @@ Always eager to **learn, grow, and explore** new technologies — transforming *
 - Interactive frontend apps with **ReactJS & Next.js**  
 - Secure authentication & deployment best practices  
 - API integration between backend and frontend
-
----
-
-
-### Projects Showcase
-
-| Project | Description | Tech Stack | Source Code |
-|---------|-------------|------------|------------|
-| **Next.js + Django (DRF)** | A basic blog application built with Next.js for the frontend and Django REST Framework (DRF) for the backend. Blog posts are fetched using Axios and displayed using Tailwind CSS. | Next.js, Django, DRF, Tailwind CSS, Axios | [Source Code](https://github.com/hasdajustin/nextjs_with_django) |
-| **DonateBlood Web App** | A Django-based web application to register as blood donors, search available donors, and manage donation records. | Python, Django, HTML, CSS, Bootstrap, SQLite | [Source Code](https://github.com/hasdajustin/donateBlood-webApp) |
-| **QuickFindMovies** | A Django app to browse and filter movies by genre, year, and country from an Excel file. | Python, Django, Pandas, Openpyxl, HTML, CSS, Bootstrap | [Source Code](https://github.com/hasdajustin/QUICK-FIND-MOVIES) |
-| **GitHub Profile Finder** | Lookup any GitHub profile using HTML, CSS, Bootstrap, and Vanilla JS. Fetch avatar, bio, location, followers, and more via GitHub API. | HTML5, CSS, Bootstrap 5, Vanilla JS, GitHub REST API | [Source Code](https://github.com/hasdajustin/Github-Profile-Finder) |
-| **Simple Django CRUD Operation** | A basic CRUD operation project using Django for creating, reading, updating, and deleting records. | Python, Django, HTML, CSS, Bootstrap | [Source Code](https://github.com/hasdajustin/Simple-Django-Crud-Operation) |
-| **LinkShortener** | A clean and simple URL shortener application built with Flask, Bootstrap, and SQLite. Deployed live on Render. | Flask, Bootstrap 5, SQLite, Font Awesome | [Source Code](https://github.com/hasdajustin/linkshortener) |
-
 ---
 
 ### GitHub Stats
