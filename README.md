@@ -5,11 +5,9 @@
 ---
 
 ### About Me  
-A **passionate learner** and aspiring **Web Developer**.  
-Completed *Diploma in Engineering (Computer Technology)* and currently pursuing **B.Sc. in Computer Science & Engineering (CSE)** at *Dhaka International University*.  
-Enthusiastic about **Web Development**, with a strong focus on *Backend Development*.  
-Primarily working with **Django** and other *modern web technologies* to create functional, responsive, and user-friendly applications.  
-Always eager to **learn, grow, and explore** new technologies — transforming *complex ideas* into **simple and effective solutions**.
+Hi, I'm Matheus Justin Hasda  
+I'm learning web development and backend systems.  
+I enjoy coding, exploring new tech, and figuring things out one step at a time.
 
 **📧 Email:** <a href="mailto:matheusjustinhasda@gmail.com">`matheusjustinhasda@gmail.com`</a>
 
@@ -34,15 +32,16 @@ Always eager to **learn, grow, and explore** new technologies — transforming *
 
 | Frontend | Backend | Databases | Tools |
 |----------|---------|-----------|-------|
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=django" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=sqlite" height="40" /> | <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> <img src="https://skillicons.dev/icons?i=postman" height="40" /> |
-
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=django" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=sqlite" height="40" /> | <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> <img src="https://skillicons.dev/icons?i=postman" height="40" /> <img src="https://skillicons.dev/icons?i=bash" height="40" /> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/swagger-api-icon.svg" height="40" alt="Swagger" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" /> |
 ---
 
 ### Currently Exploring
-- *Backend development* with **Django & Django REST Framework**  
-- Interactive frontend apps with **ReactJS & Next.js**  
-- Secure authentication & deployment best practices  
-- API integration between backend and frontend
+• REST API Development & Integration  
+• Secure Authentication Systems  
+• Django REST Framework  
+• API Documentation Standards  
+• Containerization with Docker  
+• Modern Frontend with React
 ---
 
 ### GitHub Stats
